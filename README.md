@@ -1,7 +1,7 @@
 
 # 🌟 Visualizations for Motivation & Empowerment
 
-[GitHub Page](https://fluxpuls.github.io/Visualizations.github.io/)
+[GitHub Page](https://fluxpuls.github.io/)
 
 
 Stay updated and follow our journey!
